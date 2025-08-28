@@ -3,3 +3,9 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+KiCad/motor_trotten/#auto_saved_files#
+KiCad/motor_trotten/*.lck
+KiCad/motor_trotten/motor_trotten-backups/
+3D_print
+KiCad/motor_trotten/_autosave-motor_trotten.kicad_sch
