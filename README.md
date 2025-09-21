@@ -1,4 +1,4 @@
-# Motor-TOTTEN
+# Motor-TROTTEN
 
 Mit einem höhenverstellbaren Schreibtisch kann man seinem Rücken Gutes tun.
 Wer dem Ikea-Marketing allerdings nicht abkauft, dass man mit manuellem
